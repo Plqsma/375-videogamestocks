@@ -32,6 +32,6 @@ This project explores predictive modeling on the closing prices of the top 10 vi
 
 These metrics were used to assess accuracy and explainability across the two models.
 
-## 📌 Key Findings
+## Key Findings
 - Random Forest generally provided better prediction accuracy but at the cost of interpretability.
 - Linear Regression offered a good baseline and was useful for understanding feature relationships.
